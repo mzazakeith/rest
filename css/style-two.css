@@ -1,0 +1,22 @@
+h1{
+  font-size: 100px;
+  color: #FFFFFF;
+  text-align: center;
+
+}
+h2{
+  text-align: center;
+  color: #FFFFFF;
+}
+p{
+  font-family: sans-serif;
+  text-align: center;
+  color: #000000;
+}
+a{
+  text-decoration: none;
+  font-style: italic;
+}
+body{
+  background-color: #BB1400;
+}
